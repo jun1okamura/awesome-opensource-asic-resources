@@ -54,7 +54,7 @@
 
 ## FPGA tools
 * [OSFPGA](https://github.com/os-fpga) - end to end FPGA flow with open source tools such as Yosys, VTR and VPR
-* [OSFPGA](https://github.com/chipsalliance/f4pga) - end to end FPGA flow by ChipAlliance
+* [F4PGA](https://github.com/chipsalliance/f4pga) - end to end FPGA flow by ChipAlliance
 * [OpenFPGALoader](https://github.com/trabucayre/openFPGALoader)
 * [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
 * [nextprn](https://github.com/YosysHQ/nextpnr)
@@ -121,6 +121,7 @@
 * [FOSSi](https://www.fossi-foundation.org/) - FOSSi Foundation is a non-profit foundation with the mission to promote and assist free and open digital hardware designs and their related ecosystems. 
 * [Chips Alliance](https://chipsalliance.org/) - CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance harnesses the energy of open source collaboration to accelerate hardware development
 * [WOSET](https://woset-workshop.github.io/) - The WOSET workshop aims to galvanize the open-source EDA movement.
+* [Slack:open-source-silicon.dev](https://open-source-silicon.slack.com/)
 
 ## Companies
 
