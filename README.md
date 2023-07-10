@@ -30,7 +30,7 @@ title: オープンソースASIC関連リンク集
 ## ロジック系 回路シミュレータ
 
 * [GHDL](https://github.com/ghdl/ghdl) -- VHDLシミュレータ
-* [Valigator](https://github.com/verilator/verilator)　-- Verilog シミュレータ
+* [Valigator](https://github.com/verilator/verilator)　-- SystemVerilog シミュレータ
 * [Icarus Verilog](https://github.com/steveicarus/iverilog)　-- Verilog シミュレータ
 * [IRSIM](http://opencircuitdesign.com/irsim/index.html) -- スイッチ レベル Tr シミュレータ
 * [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA) -- 静的タイミング解析(STA)ツール
