@@ -97,7 +97,6 @@ title: オープンソースASIC関連リンク集
 * Slack のコミュニティ [ココ](https://join.slack.com/) に参加しましょう！
 * FAQ は、[ココ](https://docs.google.com/document/d/1Y7LuP_0dJ_vmD8G_Twc6qc97fj7aW5pRV5nAjN2oOUk/edit#heading=h.dabsoa4nkp71)
 * 寄託されたプロジェクトは、[ココ](https://platform.efabless.com/projects/public) 
-
 * [プレゼンテーション: Google + Analog](https://bit.ly/goog-analog)
 * [プレゼンテーション: Google + NIST](https://bit.ly/goog-nist)
 * [プレゼンテーション: SERDES, PIPE and protocols](https://bit.ly/open-pipe-talk)
