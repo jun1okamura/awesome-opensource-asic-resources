@@ -83,40 +83,41 @@ title: オープンソースASIC関連リンク集
 ## コミュニティ
 
 * [Slack](https://join.slack.com) -- オープンソースシリコンのSlack #japan_region:日本語チャネル有り
-* [Twitter list](https://twitter.com/i/lists/1510948904736628736) -- Matt(リンク集の作者)のTwitter
+* [Twitter list](https://twitter.com/i/lists/1510948904736628736) -- Matt(リンク集の原作者)のTwitter
 * [VLSI.JP](https://vlsi.jp/) -- 日本語によるオープンソースEDAでの設計例
 
 ## 動画
 
-* [Zero to ASIC course videos](https://www.youtube.com/zerotoasic) -- Matt(リンク集の作者)が運営する「Zero to ASIC」コースの動画
+* [Zero to ASIC course videos](https://www.youtube.com/zerotoasic) -- Matt(リンク集の原作者)が運営する「Zero to ASIC」コースの動画
 * [Asianometry - the promise of open source EDA tools](https://www.youtube.com/watch?v=OmEbzRp_NGg) -- OpenEDA の背景説明 (日本語のCCあり)
 
 ## Google OpenSilicon 関連
 
 * [Quickstart guide](https://caravel-user-project.readthedocs.io/en/latest/quickstart.html) -- CARAVEL での設計プロジェクトの始め方
-* Slack のコミュニティ [join the community slack](https://join.slack.com/) に参加しましょう！
+* Slack のコミュニティ [ココ](https://join.slack.com/) に参加しましょう！
 * FAQ は、[ココ](https://docs.google.com/document/d/1Y7LuP_0dJ_vmD8G_Twc6qc97fj7aW5pRV5nAjN2oOUk/edit#heading=h.dabsoa4nkp71)
 * 寄託されたプロジェクトは、[ココ](https://platform.efabless.com/projects/public) 
 
+* [プレゼンテーション: Google + Analog](https://bit.ly/goog-analog)
+* [プレゼンテーション: Google + NIST](https://bit.ly/goog-nist)
+* [プレゼンテーション: SERDES, PIPE and protocols](https://bit.ly/open-pipe-talk)
+* [プレゼンテーション: Open source (e)FPGA generators](https://bit.ly/goog-fpga-22q3)
+* [プレゼンテーション: A fully OSS memory controller with LPDDR4/5 support](https://bit.ly/ops21-litedram)
+* [プレゼンテーション: 15th Oct 2022 @ VSDOpen Conference](https://bit.ly/vsdopen22-goog) -- 動画は、[ココ](https://bit.ly/vsdopen22-goog-video)
+* [プレゼンテーション: 24th Apr 2022　@　CICC](https://bit.ly/cicc22-edu-goog)
+
 ## 学会関連
 
-* [The open source digital design conference](https://orconf.org/)
-* OpenTapeout [https://www.youtube.com/playlist?list=PLyynFETmdQDQdLCIu_HJBFNY17AAFp5W7](https://www.youtube.com/playlist?list=PLyynFETmdQDQdLCIu_HJBFNY17AAFp5W7) 
-* FOSSi events: [https://www.fossi-foundation.org/events](https://www.fossi-foundation.org/events) 
-* Free silicon conference: [https://wiki.f-si.org/index.php/FSiC2022](https://wiki.f-si.org/index.php/FSiC2022)
+* [The open source digital design conference](https://orconf.org/) -- ORConf へのリンク
+* [Open Tapeout Conference](https://www.youtube.com/playlist?list=PLyynFETmdQDQdLCIu_HJBFNY17AAFp5W7) -- YouTube 配信集
+* [FOSSi events:](https://www.fossi-foundation.org/events) -- FOSSi のイベントページへのリンク
+* [Free silicon conference](https://wiki.f-si.org/index.php?title=Main_Page) -- FSiC へのリンク
+
 
 ## 講義
 
 * [Zero To ASIC course](https://zerotoasiccourse.com/)
 * [VSD VLSI courses on Udemy](https://www.udemy.com/course/vlsi-academy-custom-layout/)
-* [Google + Analog](https://bit.ly/goog-analog)
-* [Google + NIST](https://bit.ly/goog-nist)
-* [SERDES, PIPE and protocols](https://bit.ly/open-pipe-talk)
-* [Open source (e)FPGA generators](https://bit.ly/goog-fpga-22q3)
-* [A fully OSS memory controller with LPDDR4/5 support](https://bit.ly/ops21-litedram)
-* [Presentation on 15th October 2022 @ VSDOpen 22 Conference](https://bit.ly/vsdopen22-goog)
-        [with recording](https://bit.ly/vsdopen22-goog-video)
-* [Presentation on 24th April 2022@CICC](https://bit.ly/cicc22-edu-goog)
 
 ## 文献
 
