@@ -25,7 +25,7 @@ title: オープンソースASIC関連リンク集
 
 * [Amaranth Document](https://amaranth-lang.org/docs/amaranth/latest/) -- RTL設計のための Python ライブラリー [GitHub](https://github.com/amaranth-lang) 
 * [XLS](https://google.github.io/xls/) -- Google がインハウスで開発していた高位合成言語
-* [Spinal Document](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)[GitHub](https://github.com/SpinalHDL/SpinalHDL) -- 高位合成言語
+* [Spinal Document](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html) -- 高位合成言語 [GitHub](https://github.com/SpinalHDL/SpinalHDL)
 
 ## ロジック系 回路シミュレータ
 
