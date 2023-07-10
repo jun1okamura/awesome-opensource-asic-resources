@@ -1,3 +1,6 @@
+layout: default
+title: オープンソースASIC関連リンク集
+
 # オープンソースASIC関連リンク集
 
 [用語集](https://zerotoasiccourse.com/terminology/)
@@ -17,7 +20,7 @@
 
 ## 高位合成関連ツール (HLS)
 
-* [Amaranth Document](https://amaranth-lang.org/docs/amaranth/latest/)[GitHub](https://github.com/amaranth-lang) -- RTL のための Python ライブラリー
+* [Amaranth Document](https://amaranth-lang.org/docs/amaranth/latest/) - [GitHub](https://github.com/amaranth-lang) -- RTL のための Python ライブラリー
 * [XLS](https://google.github.io/xls/) -- Google がインハウスで開発していた高位合成言語
 * [Spinal Document](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)[GitHub](https://github.com/SpinalHDL/SpinalHDL) -- 高位合成言語
 
@@ -33,24 +36,24 @@
 
 ## アナログ系 回路シミュレーター
 
-* [Ngspice](http://ngspice.sourceforge.net/) - Spice シミュレーター
-* [Xyce](https://xyce.sandia.gov/) - Spice シミュレーター
+* [Ngspice](http://ngspice.sourceforge.net/) -- Spice シミュレーター
+* [Xyce](https://xyce.sandia.gov/) -- Spice シミュレーター
 
 ## カスタム回路設計ツール
 
-* [Magic](http://opencircuitdesign.com/magic/) - old school, layout drawing tool; still a requirement in the modern flows. [Cheatsheet](https://github.com/hpretl/iic-osic/blob/main/magic-cheatsheet/magic_cheatsheet.pdf).
-* [Klayout](https://www.klayout.de/) - modern style layout drawing tool.
-* [Xschem](https://xschem.sourceforge.io/stefan/index.html) - old school, schematic capture
-* [Xcircuit](https://github.com/RTimothyEdwards/xcircuit/) - schematic capture
-* [Mosaic](https://nyancad.github.io/Mosaic/) - schematic capture (experimental)
-* [gdsfactory](https://gdsfactory.github.io/gdsfactory/) -  EDA tool to Layout and simulate Integrated Circuits.
+* [Magic](http://opencircuitdesign.com/magic/) -- 古くから有名な Layout 設計ツール, 最近のフローでも活用。[コマンド表](https://github.com/hpretl/iic-osic/blob/main/magic-cheatsheet/magic_cheatsheet.pdf).
+* [Klayout](https://www.klayout.de/) -- 現代版、レイアウト設計ツール
+* [Xschem](https://xschem.sourceforge.io/stefan/index.html) -- 古くからある、回路入力ツール
+* [Xcircuit](https://github.com/RTimothyEdwards/xcircuit/) -- 現代版、回路入力ツール
+* [Mosaic](https://nyancad.github.io/Mosaic/) -- Webベース回路入力ツール
+* [gdsfactory](https://gdsfactory.github.io/gdsfactory/) -  回路入力からGDSIIまでのチップ設計用 Python モジュール
 
 ## 物理検証ツール
 
-* [GDS2Para](https://github.com/purdue-onchip/gds2Para) -- LPE
-* [OpenRCX](https://github.com/The-OpenROAD-Project/OpenRCX) -- LPE
-* [netgen](https://github.com/RTimothyEdwards/netgen) -- LVS
-* [CVC](https://github.com/d-m-bailey/cvc) -- Circuit Validity Check tool.
+* [GDS2Para](https://github.com/purdue-onchip/gds2Para) -- レイアウトパラメーター抽出(LPE)
+* [OpenRCX](https://github.com/The-OpenROAD-Project/OpenRCX) -- レイアウトパラメーター抽出(LPE)
+* [netgen](https://github.com/RTimothyEdwards/netgen) -- レイアウト対回路比較(LVS)
+* [CVC](https://shuharisystem.com/?page_id=185) --　回路妥当性検証(CVC) [GitHub](https://github.com/d-m-bailey/cvc)
 
 ## FPGA関連ツール
 * [OSFPGA](https://github.com/os-fpga) - end to end FPGA flow with open source tools such as Yosys, VTR and VPR
@@ -63,9 +66,9 @@
 
 ## 自動生成系ツール
 
-* [OpenRAM](https://openram.soe.ucsc.edu/) - SRAM generator
-* [DFFRAM](https://github.com/Cloud-V/DFFRAM) - Memory Compiler using FF/Latch cells
-* [OpenFASoC](https://github.com/idea-fasoc/OpenFASOC) - Analogue IP generator (LDO, temperature sense etc)
+* [OpenRAM](https://openram.soe.ucsc.edu/) -- SRAM コンパイラー
+* [DFFRAM](https://github.com/Cloud-V/DFFRAM) -- FF/Latchを使ったメモリーコンパイラー
+* [OpenFASoC](https://github.com/idea-fasoc/OpenFASOC) -- Analogue IP generator (LDO, temperature sense etc)
 * [MOSAIC_BAG2](https://gitlab.com/mosaic_group/mosaic_BAG/virtuoso_template) - Analogue IP generator framework (w/minimum working example)
 * [RgGen](https://github.com/rggen/rggen) - CSR generator (SystemVerilog/Verilog/VHDL RTL, UVM reg model etc)
 
