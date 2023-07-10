@@ -83,20 +83,20 @@ title: オープンソースASIC関連リンク集
 ## コミュニティ
 
 * [Slack](https://join.slack.com) -- オープンソースシリコンのSlack #japan_region:日本語チャネル有り
-* [Twitter list](https://twitter.com/i/lists/1510948904736628736) -- Matt (リンク集の作者)のTwitter
+* [Twitter list](https://twitter.com/i/lists/1510948904736628736) -- Matt(リンク集の作者)のTwitter
 * [VLSI.JP](https://vlsi.jp/) -- 日本語によるオープンソースEDAでの設計例
 
 ## 動画
 
-* Zero to ASIC course videos, interviews, news [https://www.youtube.com/zerotoasic](https://www.youtube.com/zerotoasic) 
-* Asianometry - the promise of open source EDA tools [https://www.youtube.com/watch?v=OmEbzRp_NGg](https://www.youtube.com/watch?v=OmEbzRp_NGg) 
+* [Zero to ASIC course videos](https://www.youtube.com/zerotoasic) -- Matt(リンク集の作者)が運営する「Zero to ASIC」コースの動画
+* [Asianometry - the promise of open source EDA tools](https://www.youtube.com/watch?v=OmEbzRp_NGg) -- OpenEDA の背景説明 (日本語のCCあり)
 
 ## Google OpenSilicon 関連
 
-* [Quickstart guide](https://caravel-user-project.readthedocs.io/en/latest/quickstart.html)
-* Then [join the community slack](https://join.slack.com/t/skywater-pdk/shared_invite/zt-ggcxts4x-4V5AwC950Zv9YgbZ4g~sMQ) #shuttle & #caravel channels.
-* Check the [FAQ](https://docs.google.com/document/d/1Y7LuP_0dJ_vmD8G_Twc6qc97fj7aW5pRV5nAjN2oOUk/edit#heading=h.dabsoa4nkp71)
-* See the projects submitted here: [https://platform.efabless.com/projects/public](https://platform.efabless.com/projects/public) 
+* [Quickstart guide](https://caravel-user-project.readthedocs.io/en/latest/quickstart.html) -- CARAVEL での設計プロジェクトの始め方
+* Slack のコミュニティ [join the community slack](https://join.slack.com/) に参加しましょう！
+* FAQ は、[ココ](https://docs.google.com/document/d/1Y7LuP_0dJ_vmD8G_Twc6qc97fj7aW5pRV5nAjN2oOUk/edit#heading=h.dabsoa4nkp71)
+* 寄託されたプロジェクトは、[ココ](https://platform.efabless.com/projects/public) 
 
 ## 学会関連
 
