@@ -1,6 +1,7 @@
+---
 layout: default
 title: オープンソースASIC関連リンク集
-
+---
 # オープンソースASIC関連リンク集
 
 [用語集](https://zerotoasiccourse.com/terminology/)
@@ -20,7 +21,7 @@ title: オープンソースASIC関連リンク集
 
 ## 高位合成関連ツール (HLS)
 
-* [Amaranth Document](https://amaranth-lang.org/docs/amaranth/latest/) - [GitHub](https://github.com/amaranth-lang) -- RTL のための Python ライブラリー
+* [Amaranth Document](https://amaranth-lang.org/docs/amaranth/latest/) -- RTL設計のための Python ライブラリー [GitHub](https://github.com/amaranth-lang) 
 * [XLS](https://google.github.io/xls/) -- Google がインハウスで開発していた高位合成言語
 * [Spinal Document](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)[GitHub](https://github.com/SpinalHDL/SpinalHDL) -- 高位合成言語
 
