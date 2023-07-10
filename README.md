@@ -137,7 +137,7 @@
 * [ChipFlow](https://www.chipflow.io/) - Helping product companies to make their own chips with open source tools
 * [Efabless](https://efabless.com/) - simplifying chip creation
 * [LibreSilicon](https://libresilicon.com/) - open source manufacturing process standard
-* [LowRISC](https://lowrisc.org/open-silicon/) - open source silicon designs and tools
+* [lowRISC](https://lowrisc.org/open-silicon/) - open source silicon designs and tools
 * [Skywater Technology](https://www.skywatertechnology.com/) - foundry that first published open source PDK
 * [OpenHW Group](https://www.openhwgroup.org/) - open-source cores, verification, software and standards
 * [YosysHQ](https://www.yosyshq.com/) - open source EDA & Formal Verification
