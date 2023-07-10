@@ -7,19 +7,19 @@
 * [OpenLane](https://openlane.readthedocs.io/en/latest/) - AISCフロー（入り口から出口まで）
 * [OpenROAD](https://github.com/The-OpenROAD-Project) - OpenLane を構成するツール群へのリンク集
 * [Silicon Compiler](https://www.siliconcompiler.com/) - AISCフロー（入り口から出口まで）をサポートするPythonモジュール
-* [Coriolis 2](http://coriolis.lip6.fr/) - AISCフロー（入り口から出口まで）
-* [OSS Cad Suite](https://github.com/YosysHQ/oss-cad-suite-build) - デジタル設計に有用なオープンソースツールのリンク集
-* [VHDL support - with GHDL](https://docs.google.com/document/d/1RAQWjmxpJndlEJdLWXK8irIqWuYTstqu7pU3tOIFccc/edit) Yosys GHDLプラグイン
-* [Awesome list of verification tools](https://github.com/troyguo/awesome-dv) 設計検証系のオープンソースツールのリンク集
-* [Awesome list of HDL tools / libraries / cores ...](https://hdl.github.io/awesome/)　オープンソースツール・ライブラリ等の広範なリンク集
-* [SemiWiki's list of open EDA tools](https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/)オープンソースツールのWiki
-* [Andreas' list of awesome hardware tools](https://github.com/aolofsson/awesome-hardware-tools)Andreaさんのオープンハードウェア関連リンク集
+* [Coriolis 2](http://coriolis.lip6.fr/) -- AISCフロー（入り口から出口まで）
+* [OSS Cad Suite](https://github.com/YosysHQ/oss-cad-suite-build) -- デジタル設計に有用なオープンソースツールのリンク集
+* [VHDL support - with GHDL](https://docs.google.com/document/d/1RAQWjmxpJndlEJdLWXK8irIqWuYTstqu7pU3tOIFccc/edit) -- Yosys GHDL プラグイン
+* [Awesome list of verification tools](https://github.com/troyguo/awesome-dv) -- 設計検証系のオープンソースツールのリンク集
+* [Awesome list of HDL tools / libraries / cores ...](https://hdl.github.io/awesome/)　-- オープンソースツール・ライブラリ等の広範なリンク集
+* [SemiWiki's list of open EDA tools](https://semiwiki.com/wikis/industry-wikis/eda-open-source-tools-wiki/) -- オープンソースツールのWiki
+* [Andreas' list of awesome hardware tools](https://github.com/aolofsson/awesome-hardware-tools) -- Andreaさんのオープンハードウェア関連リンク集
 
 ## 高位合成関連ツール (HLS)
 
-* [Amaranth](https://github.com/amaranth-lang)
-* [XLS](https://google.github.io/xls/)
-* [Spinal](https://github.com/SpinalHDL/SpinalHDL)
+* [Amaranth Document](https://amaranth-lang.org/docs/amaranth/latest/)[GitHub](https://github.com/amaranth-lang) -- RTL のための Python ライブラリー
+* [XLS](https://google.github.io/xls/) -- Google がインハウスで開発していた高位合成言語
+* [Spinal Document](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)[GitHub](https://github.com/SpinalHDL/SpinalHDL) -- 高位合成言語
 
 ## ロジック系 回路シミュレーター
 
