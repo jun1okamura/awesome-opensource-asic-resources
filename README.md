@@ -84,8 +84,7 @@ title: オープンソースASIC関連リンク集
 
 * [Slack](https://join.slack.com) -- オープンソースシリコンのSlack #japan_region:日本語チャネル有り
 * [VLSI.JP](https://vlsi.jp/) -- 日本語によるオープンソースEDAでの設計例
-* [VSD VLSI courses on Udemy](https://www.udemy.com/course/vlsi-academy-custom-layout/)
-
+* [VSD VLSI courses on Udemy](https://www.udemy.com/course/vlsi-academy-custom-layout/) -- Udemy のVLSI設計コース(有料)
 
 ## 動画
 
