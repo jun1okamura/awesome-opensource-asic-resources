@@ -24,17 +24,17 @@
 ## ロジック系 回路シミュレーター
 
 * [GHDL](https://github.com/ghdl/ghdl) -- VHDLシミュレーター
-* [Valigator](https://github.com/verilator/verilator)
-* [Icarus Verilog](https://github.com/steveicarus/iverilog)
-* [IRSIM](http://opencircuitdesign.com/irsim/index.html) -- Switch level Tr simulator
-* [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA) -- STA tool
-* [Meep](https://github.com/NanoComp/meep) -- FTDT simulator
-* [Fault](https://github.com/AUCOHL/Fault) -- DFT tool
+* [Valigator](https://github.com/verilator/verilator)　-- Verilog シミュレーター
+* [Icarus Verilog](https://github.com/steveicarus/iverilog)　-- Verilog シミュレーター
+* [IRSIM](http://opencircuitdesign.com/irsim/index.html) -- スイッチ レベル Tr シミュレーター
+* [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA) -- 静的タイミング解析(STA)ツール
+* [Meep](https://github.com/NanoComp/meep) -- FTDT シミュレーター
+* [Fault](https://github.com/AUCOHL/Fault) -- DFT ツール
 
 ## アナログ系 回路シミュレーター
 
-* [Ngspice](http://ngspice.sourceforge.net/) - Spice simulation
-* [Xyce](https://xyce.sandia.gov/) - Spice simulation
+* [Ngspice](http://ngspice.sourceforge.net/) - Spice シミュレーター
+* [Xyce](https://xyce.sandia.gov/) - Spice シミュレーター
 
 ## カスタム回路設計ツール
 
