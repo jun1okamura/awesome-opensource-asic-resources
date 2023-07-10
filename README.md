@@ -32,8 +32,8 @@ title: オープンソースASIC関連リンク集
 * [Icarus Verilog](https://github.com/steveicarus/iverilog)　-- Verilog シミュレーター
 * [IRSIM](http://opencircuitdesign.com/irsim/index.html) -- スイッチ レベル Tr シミュレーター
 * [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA) -- 静的タイミング解析(STA)ツール
-* [Meep](https://github.com/NanoComp/meep) -- FTDT シミュレーター
-* [Fault](https://github.com/AUCOHL/Fault) -- DFT ツール
+* [Meep](https://github.com/NanoComp/meep) -- 有限差分時間領域法(FTDT)の電磁界解析シミュレーター
+* [Fault](https://github.com/AUCOHL/Fault) -- テスト容易化設計(DFT)ツール
 
 ## アナログ系 回路シミュレーター
 
@@ -57,21 +57,21 @@ title: オープンソースASIC関連リンク集
 * [CVC](https://shuharisystem.com/?page_id=185) --　回路妥当性検証(CVC) [GitHub](https://github.com/d-m-bailey/cvc)
 
 ## FPGA関連ツール
-* [OSFPGA](https://github.com/os-fpga) - end to end FPGA flow with open source tools such as Yosys, VTR and VPR
-* [F4PGA](https://github.com/chipsalliance/f4pga) - end to end FPGA flow by ChipAlliance
-* [OpenFPGALoader](https://github.com/trabucayre/openFPGALoader)
-* [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
-* [nextprn](https://github.com/YosysHQ/nextpnr)
-* [FASM](https://github.com/chipsalliance/fasm)
+* [OSFPGA](https://github.com/os-fpga) -- FPGAフロー(入り口から出口まで)
+* [F4PGA](https://github.com/chipsalliance/f4pga) -- ChipAllianceによるFPGAフロー(入り口から出口まで)
+* [OpenFPGALoader](https://github.com/trabucayre/openFPGALoader) -- FPGAへの書き込みツール
+* [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing) -- FPGA向けP&Rツール
+* [nextprn](https://github.com/YosysHQ/nextpnr) -- FPGA向けタイミングドリブンP&Rツール
+* [FASM](https://github.com/chipsalliance/fasm) -- FPGA Assembly(FASM)言語向けツール
 
 
 ## 自動生成系ツール
 
 * [OpenRAM](https://openram.soe.ucsc.edu/) -- SRAM コンパイラー
 * [DFFRAM](https://github.com/Cloud-V/DFFRAM) -- FF/Latchを使ったメモリーコンパイラー
-* [OpenFASoC](https://github.com/idea-fasoc/OpenFASOC) -- Analogue IP generator (LDO, temperature sense etc)
-* [MOSAIC_BAG2](https://gitlab.com/mosaic_group/mosaic_BAG/virtuoso_template) - Analogue IP generator framework (w/minimum working example)
-* [RgGen](https://github.com/rggen/rggen) - CSR generator (SystemVerilog/Verilog/VHDL RTL, UVM reg model etc)
+* [OpenFASoC](https://github.com/idea-fasoc/OpenFASOC) -- アナログIP自動発生ツール(電源降圧回路、温度センサー等)
+* [MOSAIC_BAG2](https://mosaic_group.gitlab.io/mosaic_BAG/virtuoso_template) -- Berkeley Analog Generator(BAG)フレームワーク [GitHub](https://gitlab.com/mosaic_group/mosaic_BAG/virtuoso_template)
+* [RgGen](https://github.com/rggen/rggen) - 設定レジスター(CSR)自動発生ツール(SystemVerilog/Verilog/VHDL RTL, UVM reg model etc)
 
 ## PDK (Process Design Kit)
 
@@ -82,9 +82,9 @@ title: オープンソースASIC関連リンク集
 
 ## コミュニティ
 
-* [Skywater PDK Slack](https://join.slack.com/t/skywater-pdk/shared_invite/zt-ggcxts4x-4V5AwC950Zv9YgbZ4g~sMQ)
-* [Twitter list](https://twitter.com/i/lists/1510948904736628736)
-
+* [Slack](https://join.slack.com) -- オープンソースシリコンのSlack #japan_region:日本語チャネル有り
+* [Twitter list](https://twitter.com/i/lists/1510948904736628736) -- Matt (リンク集の作者)のTwitter
+* [VLSI.JP](https://vlsi.jp/) -- 日本語によるオープンソースEDAでの設計例
 
 ## 動画
 
