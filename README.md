@@ -102,8 +102,8 @@ title: オープンソースASIC関連リンク集
 * [プレゼンテーション: SERDES, PIPE and protocols](https://bit.ly/open-pipe-talk)
 * [プレゼンテーション: Open source (e)FPGA generators](https://bit.ly/goog-fpga-22q3)
 * [プレゼンテーション: A fully OSS memory controller with LPDDR4/5 support](https://bit.ly/ops21-litedram)
-* [プレゼンテーション: 15th Oct 2022 @ VSDOpen Conference](https://bit.ly/vsdopen22-goog) -- 動画は、[ココ](https://bit.ly/vsdopen22-goog-video)
-* [プレゼンテーション: 24th Apr 2022　@　CICC](https://bit.ly/cicc22-edu-goog)
+* [プレゼンテーション: 15th Oct 2022 @VSDOpen Conference](https://bit.ly/vsdopen22-goog) -- 動画は、[ココ](https://bit.ly/vsdopen22-goog-video)
+* [プレゼンテーション: 24th Apr 2022 @CICC](https://bit.ly/cicc22-edu-goog)
 
 ## 学会関連
 
@@ -117,19 +117,19 @@ title: オープンソースASIC関連リンク集
 * [The Register](https://www.theregister.com/2020/07/03/open_chip_hardware/) -- Google OpenSilicon 関連記事
 * [Medium](https://medium.com/librecores) -- LibreCore の Medium ページへのリンク
 
-## Zero to ASIC 関連（Matt:リンク集の原作者が運営）
+## Zero to ASIC 関連（Matthew Venn :本リンク集の原作者が運営）
 
 * [Zero To ASIC course](https://zerotoasiccourse.com/) -- 「Zero to ASIC」ホームページ
 * [Zero to ASIC course videos](https://www.youtube.com/zerotoasic) -- 「Zero to ASIC」コース動画
-* [Zero to ASIC Twitter](https://twitter.com/i/lists/1510948904736628736) -- 「Zero to ASIC」Twitterへのリンク
+* [Zero to ASIC Twitter](https://twitter.com/matthewvenn/lists) -- 「Zero to ASIC」Twitterのリンク集
 * [Zero to ASIC newsletter](https://zerotoasiccourse.com/newsletter/) -- 「Zero to ASIC」ニュースレターへのリンク
 * [Zero to ASIC post](https://zerotoasiccourse.com/post/) -- 「Zero to ASIC」の関連文献へのリンク
 
 ## 関連グループ
 
-* [FOSSi](https://www.fossi-foundation.org/) -- FOSSi Foundation は、フリーでオープンなデジタルハードウェア設計とその関連エコシステムを促進および支援することを目的とする非営利財団です。
-* [Chips Alliance](https://chipsalliance.org/) -- CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance は、オープンソースの連携力によりハードウェア開発を加速する団体です。
-* [WOSET](https://woset-workshop.github.io/) -- WOSET ワークショップは、オープンソースEDA運動を活性化することを目的としています。
+* [FOSSi](https://www.fossi-foundation.org/) -- FOSSi Foundation は、フリーでオープンなデジタルハードウェア設計とその関連エコシステムを促進および支援することを目的とする非営利財団
+* [Chips Alliance](https://chipsalliance.org/) -- CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance は、オープンソースの連携力によりハードウェア開発を加速する団体
+* [WOSET](https://woset-workshop.github.io/) -- WOSET ワークショップは、オープンソースEDA運動を活性化することを目的とする団体
 
 ## 関連企業
 
@@ -137,10 +137,10 @@ title: オープンソースASIC関連リンク集
 * [Efabless](https://efabless.com/) -- オープンソースツールを使用してシャトルサービスを展開する会社
 * [LibreSilicon](https://libresilicon.com/) -- オープンソースの製造プロセス標準を提供する会社
 * [lowRISC](https://lowrisc.org/open-silicon/) -- オープンソースのシリコン設計とツールを開発および維持する非営利企業
-* [Skywater Technology](https://www.skywatertechnology.com/) -- 米国投資家所有の半導体ファウンドリーであり、OpenPDK(SKy130nm)をサポート
+* [Skywater Technology](https://www.skywatertechnology.com/) -- 米国投資家所有の半導体ファウンドリー OpenPDK(SKy130nm)をサポート
 * [OpenHW Group](https://www.openhwgroup.org/) -- オープンソースハードウェア開発のプラットフォームを提供する非営利のグローバル組織
-* [YosysHQ](https://www.yosyshq.com/) - YOSYS 関連のサポートチームのホームページへのリンク
-* [ZeroASIC](https://www.zeroasic.com/) - ASICツールフロー向けシリコンコンパイラ開発企業
+* [YosysHQ](https://www.yosyshq.com/) -- YOSYS 関連のサポートチームのホームページへのリンク
+* [ZeroASIC](https://www.zeroasic.com/) -- ASICツールフロー向けシリコンコンパイラ開発企業
 * [Symbiotic](https://www.symbioticeda.com/) -- YOSYS ベースのカスタムツール開発企業
 
 ## 現在進行形
