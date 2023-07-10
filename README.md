@@ -83,12 +83,12 @@ title: オープンソースASIC関連リンク集
 ## コミュニティ
 
 * [Slack](https://join.slack.com) -- オープンソースシリコンのSlack #japan_region:日本語チャネル有り
-* [Twitter list](https://twitter.com/i/lists/1510948904736628736) -- Matt(リンク集の原作者)のTwitter
 * [VLSI.JP](https://vlsi.jp/) -- 日本語によるオープンソースEDAでの設計例
+* [VSD VLSI courses on Udemy](https://www.udemy.com/course/vlsi-academy-custom-layout/)
+
 
 ## 動画
 
-* [Zero to ASIC course videos](https://www.youtube.com/zerotoasic) -- Matt(リンク集の原作者)が運営する「Zero to ASIC」コースの動画
 * [Asianometry - the promise of open source EDA tools](https://www.youtube.com/watch?v=OmEbzRp_NGg) -- OpenEDA の背景説明 (日本語のCCあり)
 
 ## Google OpenSilicon 関連
@@ -112,40 +112,36 @@ title: オープンソースASIC関連リンク集
 * [FOSSi events:](https://www.fossi-foundation.org/events) -- FOSSi のイベントページへのリンク
 * [Free silicon conference](https://wiki.f-si.org/index.php?title=Main_Page) -- FSiC へのリンク
 
+## 記事
 
-## 講義
+* [The Register](https://www.theregister.com/2020/07/03/open_chip_hardware/) -- Google OpenSilicon 関連記事
+* [Medium](https://medium.com/librecores) -- LibreCore の Medium ページへのリンク
 
-* [Zero To ASIC course](https://zerotoasiccourse.com/)
-* [VSD VLSI courses on Udemy](https://www.udemy.com/course/vlsi-academy-custom-layout/)
+## Zero to ASIC 関連（Matt:リンク集の原作者が運営）
 
-## 文献
-
-* [https://www.theregister.com/2020/07/03/open_chip_hardware/](https://www.theregister.com/2020/07/03/open_chip_hardware/)
-* [http://olofkindgren.blogspot.com/2019/12/2019-year-of-risc-v-and-open-source.html](http://olofkindgren.blogspot.com/2019/12/2019-year-of-risc-v-and-open-source.html) 
-* [https://zerotoasiccourse.com/post/](https://zerotoasiccourse.com/post/) 
-
-## メイリングリスト・ニュースレター
-
-* El correo libre: [https://medium.com/librecores/el-correo-libre-issue-46-11028b1d0e63#ead0](https://medium.com/librecores/el-correo-libre-issue-46-11028b1d0e63#ead0) 
-* [https://zerotoasiccourse.com/newsletter/](https://zerotoasiccourse.com/newsletter/) 
+* [Zero To ASIC course](https://zerotoasiccourse.com/) -- 「Zero to ASIC」ホームページ
+* [Zero to ASIC course videos](https://www.youtube.com/zerotoasic) -- 「Zero to ASIC」コース動画
+* [Zero to ASIC Twitter](https://twitter.com/i/lists/1510948904736628736) -- 「Zero to ASIC」Twitterへのリンク
+* [Zero to ASIC newsletter](https://zerotoasiccourse.com/newsletter/) -- 「Zero to ASIC」ニュースレターへのリンク
+* [Zero to ASIC post](https://zerotoasiccourse.com/post/) -- 「Zero to ASIC」の関連文献へのリンク
 
 ## 関連グループ
 
-* [FOSSi](https://www.fossi-foundation.org/) - FOSSi Foundation is a non-profit foundation with the mission to promote and assist free and open digital hardware designs and their related ecosystems. 
-* [Chips Alliance](https://chipsalliance.org/) - CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance harnesses the energy of open source collaboration to accelerate hardware development
-* [WOSET](https://woset-workshop.github.io/) - The WOSET workshop aims to galvanize the open-source EDA movement.
-* [Slack:open-source-silicon.dev](https://open-source-silicon.slack.com/)
+* [FOSSi](https://www.fossi-foundation.org/) -- FOSSi Foundation は、フリーでオープンなデジタルハードウェア設計とその関連エコシステムを促進および支援することを目的とする非営利財団です。
+* [Chips Alliance](https://chipsalliance.org/) -- CHIPS (Common Hardware for Interfaces, Processors and Systems) Alliance は、オープンソースの連携力によりハードウェア開発を加速する団体です。
+* [WOSET](https://woset-workshop.github.io/) -- WOSET ワークショップは、オープンソースEDA運動を活性化することを目的としています。
 
 ## 関連企業
 
-* [ChipFlow](https://www.chipflow.io/) - Helping product companies to make their own chips with open source tools
-* [Efabless](https://efabless.com/) - simplifying chip creation
-* [LibreSilicon](https://libresilicon.com/) - open source manufacturing process standard
-* [lowRISC](https://lowrisc.org/open-silicon/) - open source silicon designs and tools
-* [Skywater Technology](https://www.skywatertechnology.com/) - foundry that first published open source PDK
-* [OpenHW Group](https://www.openhwgroup.org/) - open-source cores, verification, software and standards
-* [YosysHQ](https://www.yosyshq.com/) - open source EDA & Formal Verification
-* [ZeroASIC](https://www.zeroasic.com/) - makers of silicon compiler ASIC tool flow
+* [ChipFlow](https://www.chipflow.io/) -- オープンソースツールを使用して独自のチップを製造できるように支援する会社
+* [Efabless](https://efabless.com/) -- オープンソースツールを使用してシャトルサービスを展開する会社
+* [LibreSilicon](https://libresilicon.com/) -- オープンソースの製造プロセス標準を提供する会社
+* [lowRISC](https://lowrisc.org/open-silicon/) -- オープンソースのシリコン設計とツールを開発および維持する非営利企業
+* [Skywater Technology](https://www.skywatertechnology.com/) -- 米国投資家所有の半導体ファウンドリーであり、OpenPDK(SKy130nm)をサポート
+* [OpenHW Group](https://www.openhwgroup.org/) -- オープンソースハードウェア開発のプラットフォームを提供する非営利のグローバル組織
+* [YosysHQ](https://www.yosyshq.com/) - YOSYS 関連のサポートチームのホームページへのリンク
+* [ZeroASIC](https://www.zeroasic.com/) - ASICツールフロー向けシリコンコンパイラ開発企業
+* [Symbiotic](https://www.symbioticeda.com/) -- YOSYS ベースのカスタムツール開発企業
 
 ## 現在進行形
 
