@@ -4,6 +4,8 @@ title: オープンソースASIC関連リンク集
 ---
 # オープンソースASIC関連リンク集
 
+出典：[github.com/mattvenn/awesome-opensource-asic-resources](github.com/mattvenn/awesome-opensource-asic-resources) 
+
 [用語集](https://zerotoasiccourse.com/terminology/)
 
 ## デジタル設計ツール
@@ -25,20 +27,20 @@ title: オープンソースASIC関連リンク集
 * [XLS](https://google.github.io/xls/) -- Google がインハウスで開発していた高位合成言語
 * [Spinal Document](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)[GitHub](https://github.com/SpinalHDL/SpinalHDL) -- 高位合成言語
 
-## ロジック系 回路シミュレーター
+## ロジック系 回路シミュレータ
 
-* [GHDL](https://github.com/ghdl/ghdl) -- VHDLシミュレーター
-* [Valigator](https://github.com/verilator/verilator)　-- Verilog シミュレーター
-* [Icarus Verilog](https://github.com/steveicarus/iverilog)　-- Verilog シミュレーター
-* [IRSIM](http://opencircuitdesign.com/irsim/index.html) -- スイッチ レベル Tr シミュレーター
+* [GHDL](https://github.com/ghdl/ghdl) -- VHDLシミュレータ
+* [Valigator](https://github.com/verilator/verilator)　-- Verilog シミュレータ
+* [Icarus Verilog](https://github.com/steveicarus/iverilog)　-- Verilog シミュレータ
+* [IRSIM](http://opencircuitdesign.com/irsim/index.html) -- スイッチ レベル Tr シミュレータ
 * [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA) -- 静的タイミング解析(STA)ツール
-* [Meep](https://github.com/NanoComp/meep) -- 有限差分時間領域法(FTDT)の電磁界解析シミュレーター
+* [Meep](https://github.com/NanoComp/meep) -- 有限差分時間領域法(FTDT)の電磁界解析シミュレータ
 * [Fault](https://github.com/AUCOHL/Fault) -- テスト容易化設計(DFT)ツール
 
-## アナログ系 回路シミュレーター
+## アナログ系 回路シミュレータ
 
-* [Ngspice](http://ngspice.sourceforge.net/) -- Spice シミュレーター
-* [Xyce](https://xyce.sandia.gov/) -- Spice シミュレーター
+* [Ngspice](http://ngspice.sourceforge.net/) -- Spice シミュレータ
+* [Xyce](https://xyce.sandia.gov/) -- Spice シミュレータ
 
 ## カスタム回路設計ツール
 
@@ -51,8 +53,8 @@ title: オープンソースASIC関連リンク集
 
 ## 物理検証ツール
 
-* [GDS2Para](https://github.com/purdue-onchip/gds2Para) -- レイアウトパラメーター抽出(LPE)
-* [OpenRCX](https://github.com/The-OpenROAD-Project/OpenRCX) -- レイアウトパラメーター抽出(LPE)
+* [GDS2Para](https://github.com/purdue-onchip/gds2Para) -- レイアウトパラメータ抽出(LPE)
+* [OpenRCX](https://github.com/The-OpenROAD-Project/OpenRCX) -- レイアウトパラメータ抽出(LPE)
 * [netgen](https://github.com/RTimothyEdwards/netgen) -- レイアウト対回路比較(LVS)
 * [CVC](https://shuharisystem.com/?page_id=185) --　回路妥当性検証(CVC) [GitHub](https://github.com/d-m-bailey/cvc)
 
@@ -71,7 +73,7 @@ title: オープンソースASIC関連リンク集
 * [DFFRAM](https://github.com/Cloud-V/DFFRAM) -- FF/Latchを使ったメモリーコンパイラー
 * [OpenFASoC](https://github.com/idea-fasoc/OpenFASOC) -- アナログIP自動発生ツール(電源降圧回路、温度センサー等)
 * [MOSAIC_BAG2](https://mosaic_group.gitlab.io/mosaic_BAG/virtuoso_template) -- Berkeley Analog Generator(BAG)フレームワーク [GitHub](https://gitlab.com/mosaic_group/mosaic_BAG/virtuoso_template)
-* [RgGen](https://github.com/rggen/rggen) - 設定レジスター(CSR)自動発生ツール(SystemVerilog/Verilog/VHDL RTL, UVM reg model etc)
+* [RgGen](https://github.com/rggen/rggen) - 設定レジスタ(CSR)自動発生ツール(SystemVerilog/Verilog/VHDL RTL, UVM reg model etc)
 
 ## PDK (Process Design Kit)
 
@@ -121,7 +123,7 @@ title: オープンソースASIC関連リンク集
 * [Zero To ASIC course](https://zerotoasiccourse.com/) -- 「Zero to ASIC」ホームページ
 * [Zero to ASIC course videos](https://www.youtube.com/zerotoasic) -- 「Zero to ASIC」コース動画
 * [Zero to ASIC Twitter](https://twitter.com/matthewvenn/lists) -- 「Zero to ASIC」Twitterのリンク集
-* [Zero to ASIC newsletter](https://zerotoasiccourse.com/newsletter/) -- 「Zero to ASIC」ニュースレターへのリンク
+* [Zero to ASIC newsletter](https://zerotoasiccourse.com/newsletter/) -- 「Zero to ASIC」ニュースレタへのリンク
 * [Zero to ASIC post](https://zerotoasiccourse.com/post/) -- 「Zero to ASIC」の関連文献へのリンク
 
 ## 関連グループ
