@@ -4,7 +4,7 @@ title: オープンソースASIC関連リンク集
 ---
 # オープンソースASIC関連リンク集
 
-出典：[github.com/mattvenn/awesome-opensource-asic-resources](github.com/mattvenn/awesome-opensource-asic-resources) 
+出典：[https://github.com/mattvenn/awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources) 
 
 [用語集](https://zerotoasiccourse.com/terminology/)
 
