@@ -28,7 +28,7 @@ title: オープンソースASIC関連リンク集
 * [Spinal Document](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html) -- 高位合成言語 [GitHub](https://github.com/SpinalHDL/SpinalHDL)
 
 ## ロジック検証
-* [PyVSC](https://pyvsc.readthedocs.io/en/latest/) --検証用ランダム信号発生モジュール [GitHub](https://github.com/amaranth-lang)
+* [PyVSC](https://pyvsc.readthedocs.io/en/latest/) --検証用ランダム信号発生モジュール [GitHub](https://github.com/fvutils/pyvsc)
 
 ## ロジック系 回路シミュレータ
 
